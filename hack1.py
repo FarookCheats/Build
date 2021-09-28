@@ -10,7 +10,7 @@ print ("[2] NO")
 
 verfly = input("Numbers :")
 if verfly == '1':
-	os.system("python hack1.py")
+	os.system("python main.py")
 	
 if verfly == '2':
 	 os.system("clear")
