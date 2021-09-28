@@ -1,7 +1,7 @@
 # วิธีลงคำสั่ง
 pkg install git
 
-git clone
+git clone https://github.com/FarookCheats/Build
 
 ls
 
